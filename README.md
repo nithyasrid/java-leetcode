@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nithyasrid/java-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1748-sum-of-unique-elements](https://github.com/nithyasrid/java-leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1748-sum-of-unique-elements](https://github.com/nithyasrid/java-leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1748-sum-of-unique-elements](https://github.com/nithyasrid/java-leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |

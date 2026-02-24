@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
 ## Sorting
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/nithyasrid/java-leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
 <!---LeetCode Topics End-->

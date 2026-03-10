@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1531-string-compression-ii) |
 | [1544-make-the-string-great](https://github.com/nithyasrid/java-leetcode/tree/master/1544-make-the-string-great) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nithyasrid/java-leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/nithyasrid/java-leetcode/tree/master/0125-valid-palindrome) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nithyasrid/java-leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 <!---LeetCode Topics End-->

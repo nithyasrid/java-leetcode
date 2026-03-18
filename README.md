@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/nithyasrid/java-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1544-make-the-string-great](https://github.com/nithyasrid/java-leetcode/tree/master/1544-make-the-string-great) |
 ## Two Pointers
@@ -187,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nithyasrid/java-leetcode/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

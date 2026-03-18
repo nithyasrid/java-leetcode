@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nithyasrid/java-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nithyasrid/java-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nithyasrid/java-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |

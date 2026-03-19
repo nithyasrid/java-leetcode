@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/nithyasrid/java-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nithyasrid/java-leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyasrid/java-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/nithyasrid/java-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nithyasrid/java-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nithyasrid/java-leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1004-max-consecutive-ones-iii) |

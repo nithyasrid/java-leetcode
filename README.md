@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3193-count-the-number-of-inversions](https://github.com/nithyasrid/java-leetcode/tree/master/3193-count-the-number-of-inversions) |
+| [3842-toggle-light-bulbs](https://github.com/nithyasrid/java-leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/nithyasrid/java-leetcode/tree/master/1399-count-largest-group) |
 | [1748-sum-of-unique-elements](https://github.com/nithyasrid/java-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3842-toggle-light-bulbs](https://github.com/nithyasrid/java-leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3842-toggle-light-bulbs](https://github.com/nithyasrid/java-leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/nithyasrid/java-leetcode/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3100-water-bottles-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3100-water-bottles-ii) |
+| [3842-toggle-light-bulbs](https://github.com/nithyasrid/java-leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Breadth-First Search
 |  |
 | ------- |

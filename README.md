@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nithyasrid/java-leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithyasrid/java-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/nithyasrid/java-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nithyasrid/java-leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nithyasrid/java-leetcode/tree/master/0216-combination-sum-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nithyasrid/java-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/nithyasrid/java-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nithyasrid/java-leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nithyasrid/java-leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/nithyasrid/java-leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nithyasrid/java-leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nithyasrid/java-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nithyasrid/java-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/nithyasrid/java-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |

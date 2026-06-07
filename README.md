@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nithyasrid/java-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nithyasrid/java-leetcode/tree/master/0231-power-of-two) |
 ## Binary Indexed Tree
 |  |
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0572-subtree-of-another-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nithyasrid/java-leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

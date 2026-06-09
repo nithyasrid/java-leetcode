@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0455-assign-cookies](https://github.com/nithyasrid/java-leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nithyasrid/java-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nithyasrid/java-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nithyasrid/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/nithyasrid/java-leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nithyasrid/java-leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nithyasrid/java-leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/nithyasrid/java-leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/nithyasrid/java-leetcode/tree/master/0455-assign-cookies) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nithyasrid/java-leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/nithyasrid/java-leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/nithyasrid/java-leetcode/tree/master/0860-lemonade-change) |
 | [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 ## Simulation

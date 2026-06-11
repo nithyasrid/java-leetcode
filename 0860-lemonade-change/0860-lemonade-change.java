@@ -1,36 +1,31 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-
-        int five = 0;  // count of $5 bills in hand
-        int ten = 0;   // count of $10 bills in hand
-                       // $20 bills never useful for change, no need to track
-
-        for (int bill : bills) {
-
-            if (bill == 5) {
-                // No change needed, just collect
-                five++;
-
-            } else if (bill == 10) {
-                // Need to give $5 change
-                if (five == 0) return false;
-                five--;
-                ten++;
-
-            } else { // bill == 20
-                // Need to give $15 change
-                // Greedy: prefer $10 + $5 over three $5s
-                if (ten > 0 && five > 0) {
-                    ten--;
-                    five--;
-                } else if (five >= 3) {
-                    five -= 3;
-                } else {
-                    return false; // can't make change
+        int five =0;
+        int ten = 0;
+        for(int bill:bills){
+            if(bill ==5){
+                five ++;
+            }
+            else if(bill ==10){
+                if(five ==0){
+                    return false;
+                }
+                five-=1;
+                ten+=1;
+            }
+            else if(bill ==20 ){
+                if(ten>0 && five>0){
+                    ten-=1;
+                    five-=1;
+                }
+                else if(five>=3){
+                    five -=3;
+                }
+                else{
+                    return false ;
                 }
             }
         }
-
-        return true; // all customers served
+        return true;
     }
 }

@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [1360-number-of-days-between-two-dates](https://github.com/nithyasrid/java-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/nithyasrid/java-leetcode/tree/master/1399-count-largest-group) |
+| [1447-simplified-fractions](https://github.com/nithyasrid/java-leetcode/tree/master/1447-simplified-fractions) |
 | [1518-water-bottles](https://github.com/nithyasrid/java-leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/nithyasrid/java-leetcode/tree/master/2235-add-two-integers) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/nithyasrid/java-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/nithyasrid/java-leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1447-simplified-fractions](https://github.com/nithyasrid/java-leetcode/tree/master/1447-simplified-fractions) |
 | [1531-string-compression-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1531-string-compression-ii) |
 | [1544-make-the-string-great](https://github.com/nithyasrid/java-leetcode/tree/master/1544-make-the-string-great) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nithyasrid/java-leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -447,5 +449,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/nithyasrid/java-leetcode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

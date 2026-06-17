@@ -1,21 +1,21 @@
 class Solution {
     public List<String> simplifiedFractions(int n) {
         List<String> result = new ArrayList<>();
-        for(int den = 2;den<=n;den++){
-            for(int numer = 1;numer < den;numer++){
-                if(gcd(numer,den)==1){
-                    result.add(numer + "/" + den);
+        for(int d =2 ;d<=n;d++){
+            for(int numer = 1 ;numer<d;numer++){
+                if(gcd(numer,d) ==1){
+                    result .add(numer + "/" +d);
                 }
             }
         }
         return result ;
     }
-    private int gcd(int a , int b){
+    public int gcd(int a , int b){
         while(b!=0){
             int temp = b;
             b = a%b;
-            a = temp;
+            a = temp ;
         }
-        return a;
+    return a ;
     }
 }

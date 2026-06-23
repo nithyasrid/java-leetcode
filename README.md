@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nithyasrid/java-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithyasrid/java-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithyasrid/java-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/nithyasrid/java-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/nithyasrid/java-leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/nithyasrid/java-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/nithyasrid/java-leetcode/tree/master/1544-make-the-string-great) |
 ## Two Pointers
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nithyasrid/java-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nithyasrid/java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nithyasrid/java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 ## String Matching
 |  |
 | ------- |
@@ -450,9 +454,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nithyasrid/java-leetcode/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 ## Number Theory
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/nithyasrid/java-leetcode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

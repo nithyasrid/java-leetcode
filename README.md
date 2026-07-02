@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3193-count-the-number-of-inversions](https://github.com/nithyasrid/java-leetcode/tree/master/3193-count-the-number-of-inversions) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3842-toggle-light-bulbs](https://github.com/nithyasrid/java-leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nithyasrid/java-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nithyasrid/java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nithyasrid/java-leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0912-sort-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nithyasrid/java-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -490,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

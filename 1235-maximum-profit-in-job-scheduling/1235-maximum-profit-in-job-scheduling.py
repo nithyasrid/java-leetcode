@@ -3,14 +3,17 @@ import bisect
 
 class Solution:
     def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
-        jobs = sorted(zip(startTime, endTime, profit))
-        starts = [s for s, _, _ in jobs]
+        jobs = sorted(zip(endTime, startTime, profit))
 
-        n = len(jobs)
-        dp = [0] * (n + 1)
+        ends = [0]
+        dp = [0]
 
-        for i in range(n - 1, -1, -1):
-            j = bisect.bisect_left(starts, jobs[i][1])
-            dp[i] = max(dp[i + 1], jobs[i][2] + dp[j])
+        for e, s, p in jobs:
+            i = bisect.bisect_right(ends, s) - 1
+            cur = dp[i] + p
 
-        return dp[0]
+            if cur > dp[-1]:
+                ends.append(e)
+                dp.append(cur)
+
+        return dp[-1]

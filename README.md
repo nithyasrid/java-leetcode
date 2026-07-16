@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3842-toggle-light-bulbs](https://github.com/nithyasrid/java-leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/nithyasrid/java-leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nithyasrid/java-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3842-toggle-light-bulbs](https://github.com/nithyasrid/java-leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nithyasrid/java-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nithyasrid/java-leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3100-water-bottles-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3100-water-bottles-ii) |
 | [3842-toggle-light-bulbs](https://github.com/nithyasrid/java-leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -513,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/nithyasrid/java-leetcode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nithyasrid/java-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3193-count-the-number-of-inversions](https://github.com/nithyasrid/java-leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nithyasrid/java-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/nithyasrid/java-leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/nithyasrid/java-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nithyasrid/java-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1399-count-largest-group](https://github.com/nithyasrid/java-leetcode/tree/master/1399-count-largest-group) |
 | [1748-sum-of-unique-elements](https://github.com/nithyasrid/java-leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/nithyasrid/java-leetcode/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3100-water-bottles-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3100-water-bottles-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nithyasrid/java-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithyasrid/java-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/nithyasrid/java-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nithyasrid/java-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/nithyasrid/java-leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithyasrid/java-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -517,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1447-simplified-fractions](https://github.com/nithyasrid/java-leetcode/tree/master/1447-simplified-fractions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nithyasrid/java-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
@@ -544,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/nithyasrid/java-leetcode/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

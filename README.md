@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-count-the-number-of-inversions](https://github.com/nithyasrid/java-leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nithyasrid/java-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/nithyasrid/java-leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nithyasrid/java-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nithyasrid/java-leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nithyasrid/java-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nithyasrid/java-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/nithyasrid/java-leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0493-reverse-pairs) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort

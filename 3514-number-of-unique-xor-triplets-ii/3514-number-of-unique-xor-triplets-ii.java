@@ -1,23 +1,30 @@
-import java.util.*;
-
 class Solution {
     public int uniqueXorTriplets(int[] nums) {
-        HashSet<Integer> values = new HashSet<>();
-        for (int x : nums) values.add(x);
-
-        HashSet<Integer> possible = new HashSet<>();
-        possible.add(0);
-
-        for (int step = 0; step < 3; step++) {
-            HashSet<Integer> next = new HashSet<>();
-            for (int x : values) {
-                for (int y : possible) {
-                    next.add(x ^ y);
-                }
-            }
-            possible = next;
+        boolean[] present = new boolean[2048];
+        for (int x : nums) {
+            present[x] = true;
         }
 
-        return possible.size();
+        boolean[] cur = new boolean[2048];
+        cur[0] = true;
+
+        for (int step = 0; step < 3; step++) {
+            boolean[] next = new boolean[2048];
+            for (int x = 0; x < 2048; x++) {
+                if (!present[x]) continue;
+                for (int y = 0; y < 2048; y++) {
+                    if (cur[y]) {
+                        next[x ^ y] = true;
+                    }
+                }
+            }
+            cur = next;
+        }
+
+        int ans = 0;
+        for (boolean b : cur) {
+            if (b) ans++;
+        }
+        return ans;
     }
 }

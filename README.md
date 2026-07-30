@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/nithyasrid/java-leetcode/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyasrid/java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3100-water-bottles-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nithyasrid/java-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nithyasrid/java-leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nithyasrid/java-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyasrid/java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nithyasrid/java-leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nithyasrid/java-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/nithyasrid/java-leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nithyasrid/java-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyasrid/java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |

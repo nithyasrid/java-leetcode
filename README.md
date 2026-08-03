@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nithyasrid/java-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1406-stone-game-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithyasrid/java-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nithyasrid/java-leetcode/tree/master/0877-stone-game) |
 | [1360-number-of-days-between-two-dates](https://github.com/nithyasrid/java-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/nithyasrid/java-leetcode/tree/master/1399-count-largest-group) |
+| [1406-stone-game-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/nithyasrid/java-leetcode/tree/master/1447-simplified-fractions) |
 | [1518-water-bottles](https://github.com/nithyasrid/java-leetcode/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nithyasrid/java-leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1406-stone-game-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1406-stone-game-iii) |
 | [1531-string-compression-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1531-string-compression-ii) |
 | [3193-count-the-number-of-inversions](https://github.com/nithyasrid/java-leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3620-network-recovery-pathways](https://github.com/nithyasrid/java-leetcode/tree/master/3620-network-recovery-pathways) |
@@ -599,4 +602,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/nithyasrid/java-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nithyasrid/java-leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

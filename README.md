@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/nithyasrid/java-leetcode/tree/master/0584-find-customer-referee) |
 | [1341-movie-rating](https://github.com/nithyasrid/java-leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nithyasrid/java-leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nithyasrid/java-leetcode/tree/master/1757-recyclable-and-low-fat-products) |

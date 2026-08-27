@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nithyasrid/java-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/nithyasrid/java-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/nithyasrid/java-leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nithyasrid/java-leetcode/tree/master/0013-roman-to-integer) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nithyasrid/java-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/nithyasrid/java-leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/nithyasrid/java-leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nithyasrid/java-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nithyasrid/java-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/nithyasrid/java-leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nithyasrid/java-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nithyasrid/java-leetcode/tree/master/0031-next-permutation) |
@@ -720,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nithyasrid/java-leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nithyasrid/java-leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

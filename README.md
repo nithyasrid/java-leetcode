@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/nithyasrid/java-leetcode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nithyasrid/java-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithyasrid/java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/nithyasrid/java-leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nithyasrid/java-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nithyasrid/java-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nithyasrid/java-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/nithyasrid/java-leetcode/tree/master/3731-find-missing-elements) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nithyasrid/java-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nithyasrid/java-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nithyasrid/java-leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nithyasrid/java-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |

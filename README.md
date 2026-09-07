@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nithyasrid/java-leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nithyasrid/java-leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyasrid/java-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-distinct-subsequences-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/nithyasrid/java-leetcode/tree/master/1360-number-of-days-between-two-dates) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nithyasrid/java-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nithyasrid/java-leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1406-stone-game-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nithyasrid/java-leetcode/tree/master/1510-stone-game-iv) |

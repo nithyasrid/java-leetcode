@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nithyasrid/java-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/nithyasrid/java-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/nithyasrid/java-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nithyasrid/java-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1096-brace-expansion-ii) |
+| [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/nithyasrid/java-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/nithyasrid/java-leetcode/tree/master/1370-increasing-decreasing-string) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nithyasrid/java-leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/nithyasrid/java-leetcode/tree/master/1499-max-value-of-equation) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nithyasrid/java-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nithyasrid/java-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithyasrid/java-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -931,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/nithyasrid/java-leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |
+| [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 ## Z Algorithm
 |  |
 | ------- |

@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nithyasrid/java-leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nithyasrid/java-leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nithyasrid/java-leetcode/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/nithyasrid/java-leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nithyasrid/java-leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyasrid/java-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/nithyasrid/java-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nithyasrid/java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/nithyasrid/java-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nithyasrid/java-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nithyasrid/java-leetcode/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |
 ## Z Algorithm
 |  |

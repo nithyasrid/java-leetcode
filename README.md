@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nithyasrid/java-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nithyasrid/java-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1406-stone-game-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -938,12 +940,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |

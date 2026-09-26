@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nithyasrid/java-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nithyasrid/java-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/nithyasrid/java-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nithyasrid/java-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nithyasrid/java-leetcode/tree/master/0836-rectangle-overlap) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/nithyasrid/java-leetcode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/nithyasrid/java-leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nithyasrid/java-leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nithyasrid/java-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
@@ -955,5 +959,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

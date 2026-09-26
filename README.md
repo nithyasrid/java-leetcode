@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nithyasrid/java-leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nithyasrid/java-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nithyasrid/java-leetcode/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/nithyasrid/java-leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/java-leetcode/tree/master/0217-contains-duplicate) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nithyasrid/java-leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nithyasrid/java-leetcode/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/nithyasrid/java-leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nithyasrid/java-leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyasrid/java-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nithyasrid/java-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nithyasrid/java-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/nithyasrid/java-leetcode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0835-image-overlap](https://github.com/nithyasrid/java-leetcode/tree/master/0835-image-overlap) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0052-n-queens-ii) |
+| [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/nithyasrid/java-leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1096-brace-expansion-ii) |
@@ -917,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nithyasrid/java-leetcode/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |
 ## Z Algorithm
 |  |

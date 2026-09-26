@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nithyasrid/java-leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/nithyasrid/java-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nithyasrid/java-leetcode/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/nithyasrid/java-leetcode/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/nithyasrid/java-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/nithyasrid/java-leetcode/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/nithyasrid/java-leetcode/tree/master/0879-profitable-schemes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0518-coin-change-ii) |
+| [0879-profitable-schemes](https://github.com/nithyasrid/java-leetcode/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/nithyasrid/java-leetcode/tree/master/0879-profitable-schemes) |
 | [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |

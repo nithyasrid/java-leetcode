@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nithyasrid/java-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/nithyasrid/java-leetcode/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -847,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nithyasrid/java-leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nithyasrid/java-leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->

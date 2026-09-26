@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nithyasrid/java-leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/nithyasrid/java-leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/nithyasrid/java-leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/nithyasrid/java-leetcode/tree/master/0778-swim-in-rising-water) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nithyasrid/java-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/nithyasrid/java-leetcode/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/nithyasrid/java-leetcode/tree/master/0778-swim-in-rising-water) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nithyasrid/java-leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/nithyasrid/java-leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/nithyasrid/java-leetcode/tree/master/0743-network-delay-time) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nithyasrid/java-leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/nithyasrid/java-leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nithyasrid/java-leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nithyasrid/java-leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |

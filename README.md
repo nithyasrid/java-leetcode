@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/nithyasrid/java-leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nithyasrid/java-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/nithyasrid/java-leetcode/tree/master/0486-predict-the-winner) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/nithyasrid/java-leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/nithyasrid/java-leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/nithyasrid/java-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nithyasrid/java-leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -921,4 +923,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

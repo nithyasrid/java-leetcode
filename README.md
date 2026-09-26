@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nithyasrid/java-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/nithyasrid/java-leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nithyasrid/java-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nithyasrid/java-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nithyasrid/java-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/nithyasrid/java-leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/nithyasrid/java-leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/nithyasrid/java-leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -927,8 +930,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

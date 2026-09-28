@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nithyasrid/java-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1531-string-compression-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1531-string-compression-ii) |
 | [1544-make-the-string-great](https://github.com/nithyasrid/java-leetcode/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nithyasrid/java-leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/nithyasrid/java-leetcode/tree/master/1927-sum-game) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/nithyasrid/java-leetcode/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1085,4 +1087,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

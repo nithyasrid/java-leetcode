@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithyasrid/java-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1499-max-value-of-equation](https://github.com/nithyasrid/java-leetcode/tree/master/1499-max-value-of-equation) |
 | [1539-kth-missing-positive-number](https://github.com/nithyasrid/java-leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/nithyasrid/java-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithyasrid/java-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/nithyasrid/java-leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nithyasrid/java-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nithyasrid/java-leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nithyasrid/java-leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1584-min-cost-to-connect-all-points](https://github.com/nithyasrid/java-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nithyasrid/java-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nithyasrid/java-leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nithyasrid/java-leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nithyasrid/java-leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nithyasrid/java-leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1584-min-cost-to-connect-all-points](https://github.com/nithyasrid/java-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/nithyasrid/java-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nithyasrid/java-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nithyasrid/java-leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nithyasrid/java-leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/nithyasrid/java-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -1099,14 +1103,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nithyasrid/java-leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/nithyasrid/java-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Kruskal's Algorithm
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nithyasrid/java-leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/nithyasrid/java-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Borůvka's Algorithm
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nithyasrid/java-leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/nithyasrid/java-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |

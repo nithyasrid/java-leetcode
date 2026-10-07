@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nithyasrid/java-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nithyasrid/java-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2643-row-with-maximum-ones](https://github.com/nithyasrid/java-leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithyasrid/java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nithyasrid/java-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2643-row-with-maximum-ones](https://github.com/nithyasrid/java-leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nithyasrid/java-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |

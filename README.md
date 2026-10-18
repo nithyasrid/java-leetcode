@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nithyasrid/java-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/nithyasrid/java-leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithyasrid/java-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nithyasrid/java-leetcode/tree/master/0162-find-peak-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nithyasrid/java-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nithyasrid/java-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/nithyasrid/java-leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyasrid/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nithyasrid/java-leetcode/tree/master/0169-majority-element) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nithyasrid/java-leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nithyasrid/java-leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/nithyasrid/java-leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/nithyasrid/java-leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nithyasrid/java-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/nithyasrid/java-leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/nithyasrid/java-leetcode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
@@ -877,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nithyasrid/java-leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nithyasrid/java-leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nithyasrid/java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
@@ -886,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/nithyasrid/java-leetcode/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -1079,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nithyasrid/java-leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/nithyasrid/java-leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |

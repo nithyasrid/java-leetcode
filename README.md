@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/nithyasrid/java-leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nithyasrid/java-leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/nithyasrid/java-leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyasrid/java-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/nithyasrid/java-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nithyasrid/java-leetcode/tree/master/0567-permutation-in-string) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/nithyasrid/java-leetcode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nithyasrid/java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/nithyasrid/java-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0355-design-twitter](https://github.com/nithyasrid/java-leetcode/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nithyasrid/java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyasrid/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nithyasrid/java-leetcode/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/nithyasrid/java-leetcode/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/nithyasrid/java-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nithyasrid/java-leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |

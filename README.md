@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nithyasrid/java-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nithyasrid/java-leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nithyasrid/java-leetcode/tree/master/0299-bulls-and-cows) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/nithyasrid/java-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nithyasrid/java-leetcode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/nithyasrid/java-leetcode/tree/master/0486-predict-the-winner) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/nithyasrid/java-leetcode/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/nithyasrid/java-leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nithyasrid/java-leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nithyasrid/java-leetcode/tree/master/0392-is-subsequence) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/nithyasrid/java-leetcode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |

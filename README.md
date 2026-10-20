@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/nithyasrid/java-leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nithyasrid/java-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nithyasrid/java-leetcode/tree/master/0162-find-peak-element) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nithyasrid/java-leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nithyasrid/java-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nithyasrid/java-leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nithyasrid/java-leetcode/tree/master/0205-isomorphic-strings) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nithyasrid/java-leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nithyasrid/java-leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nithyasrid/java-leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/nithyasrid/java-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nithyasrid/java-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
@@ -1087,10 +1090,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nithyasrid/java-leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nithyasrid/java-leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Manacher
 |  |
@@ -1124,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/nithyasrid/java-leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nithyasrid/java-leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Algorithm X

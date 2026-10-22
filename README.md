@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nithyasrid/java-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/nithyasrid/java-leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nithyasrid/java-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1096-brace-expansion-ii) |
+| [1200-minimum-absolute-difference](https://github.com/nithyasrid/java-leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/nithyasrid/java-leetcode/tree/master/1288-remove-covered-intervals) |

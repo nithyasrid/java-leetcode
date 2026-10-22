@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/nithyasrid/java-leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nithyasrid/java-leetcode/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/nithyasrid/java-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0778-swim-in-rising-water](https://github.com/nithyasrid/java-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/nithyasrid/java-leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/nithyasrid/java-leetcode/tree/master/0860-lemonade-change) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nithyasrid/java-leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nithyasrid/java-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/nithyasrid/java-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |

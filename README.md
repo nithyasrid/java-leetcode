@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nithyasrid/java-leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nithyasrid/java-leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nithyasrid/java-leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/nithyasrid/java-leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nithyasrid/java-leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/nithyasrid/java-leetcode/tree/master/0189-rotate-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nithyasrid/java-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/nithyasrid/java-leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/nithyasrid/java-leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/nithyasrid/java-leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nithyasrid/java-leetcode/tree/master/0125-valid-palindrome) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nithyasrid/java-leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/nithyasrid/java-leetcode/tree/master/0067-add-binary) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
 | [1518-water-bottles](https://github.com/nithyasrid/java-leetcode/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nithyasrid/java-leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/nithyasrid/java-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nithyasrid/java-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nithyasrid/java-leetcode/tree/master/0190-reverse-bits) |

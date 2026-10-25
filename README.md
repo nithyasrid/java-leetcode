@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nithyasrid/java-leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/nithyasrid/java-leetcode/tree/master/0322-coin-change) |
+| [0336-palindrome-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nithyasrid/java-leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nithyasrid/java-leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nithyasrid/java-leetcode/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/nithyasrid/java-leetcode/tree/master/0355-design-twitter) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/nithyasrid/java-leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nithyasrid/java-leetcode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/nithyasrid/java-leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/nithyasrid/java-leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/nithyasrid/java-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0336-palindrome-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
@@ -1170,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nithyasrid/java-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0336-palindrome-pairs) |
 | [0648-replace-words](https://github.com/nithyasrid/java-leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |

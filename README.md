@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/nithyasrid/java-leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1200-minimum-absolute-difference](https://github.com/nithyasrid/java-leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/nithyasrid/java-leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nithyasrid/java-leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/nithyasrid/java-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/nithyasrid/java-leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/nithyasrid/java-leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/nithyasrid/java-leetcode/tree/master/1360-number-of-days-between-two-dates) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/nithyasrid/java-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/nithyasrid/java-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/nithyasrid/java-leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-number-of-closed-islands](https://github.com/nithyasrid/java-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nithyasrid/java-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -1209,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/nithyasrid/java-leetcode/tree/master/1023-camelcase-matching) |
 | [1032-stream-of-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1032-stream-of-characters) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/nithyasrid/java-leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/nithyasrid/java-leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |

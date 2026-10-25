@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/nithyasrid/java-leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nithyasrid/java-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nithyasrid/java-leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2643-row-with-maximum-ones](https://github.com/nithyasrid/java-leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nithyasrid/java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-encrypt-and-decrypt-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2409-count-days-spent-together](https://github.com/nithyasrid/java-leetcode/tree/master/2409-count-days-spent-together) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nithyasrid/java-leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nithyasrid/java-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nithyasrid/java-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyasrid/java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1243,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-encrypt-and-decrypt-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nithyasrid/java-leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/nithyasrid/java-leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 | [3597-partition-string](https://github.com/nithyasrid/java-leetcode/tree/master/3597-partition-string) |

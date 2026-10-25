@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nithyasrid/java-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nithyasrid/java-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nithyasrid/java-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nithyasrid/java-leetcode/tree/master/2029-stone-game-ix) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nithyasrid/java-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithyasrid/java-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/nithyasrid/java-leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nithyasrid/java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nithyasrid/java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/nithyasrid/java-leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1386-cinema-seat-allocation](https://github.com/nithyasrid/java-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nithyasrid/java-leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nithyasrid/java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nithyasrid/java-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nithyasrid/java-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/nithyasrid/java-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nithyasrid/java-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nithyasrid/java-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nithyasrid/java-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nithyasrid/java-leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1217,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nithyasrid/java-leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nithyasrid/java-leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 | [3597-partition-string](https://github.com/nithyasrid/java-leetcode/tree/master/3597-partition-string) |

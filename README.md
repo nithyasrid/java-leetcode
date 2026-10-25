@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nithyasrid/java-leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nithyasrid/java-leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nithyasrid/java-leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/nithyasrid/java-leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/nithyasrid/java-leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/nithyasrid/java-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/nithyasrid/java-leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nithyasrid/java-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nithyasrid/java-leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/nithyasrid/java-leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/nithyasrid/java-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nithyasrid/java-leetcode/tree/master/0190-reverse-bits) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nithyasrid/java-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/nithyasrid/java-leetcode/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/nithyasrid/java-leetcode/tree/master/0216-combination-sum-iii) |

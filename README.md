@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nithyasrid/java-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nithyasrid/java-leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nithyasrid/java-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/nithyasrid/java-leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nithyasrid/java-leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nithyasrid/java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nithyasrid/java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithyasrid/java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nithyasrid/java-leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/nithyasrid/java-leetcode/tree/master/1291-sequential-digits) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nithyasrid/java-leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nithyasrid/java-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1234,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nithyasrid/java-leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 | [3597-partition-string](https://github.com/nithyasrid/java-leetcode/tree/master/3597-partition-string) |
@@ -1366,4 +1371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1032-stream-of-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1032-stream-of-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/nithyasrid/java-leetcode/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->

@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nithyasrid/java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nithyasrid/java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nithyasrid/java-leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithyasrid/java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/nithyasrid/java-leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nithyasrid/java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nithyasrid/java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nithyasrid/java-leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithyasrid/java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nithyasrid/java-leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nithyasrid/java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nithyasrid/java-leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nithyasrid/java-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nithyasrid/java-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/nithyasrid/java-leetcode/tree/master/1499-max-value-of-equation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithyasrid/java-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nithyasrid/java-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nithyasrid/java-leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithyasrid/java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nithyasrid/java-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/nithyasrid/java-leetcode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -1251,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/nithyasrid/java-leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nithyasrid/java-leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2707-extra-characters-in-a-string](https://github.com/nithyasrid/java-leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/nithyasrid/java-leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 | [3597-partition-string](https://github.com/nithyasrid/java-leetcode/tree/master/3597-partition-string) |

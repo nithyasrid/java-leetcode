@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nithyasrid/java-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nithyasrid/java-leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3193-count-the-number-of-inversions](https://github.com/nithyasrid/java-leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithyasrid/java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/nithyasrid/java-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nithyasrid/java-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nithyasrid/java-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nithyasrid/java-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nithyasrid/java-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nithyasrid/java-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nithyasrid/java-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nithyasrid/java-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nithyasrid/java-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/nithyasrid/java-leetcode/tree/master/0692-top-k-frequent-words) |
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 | [3597-partition-string](https://github.com/nithyasrid/java-leetcode/tree/master/3597-partition-string) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/nithyasrid/java-leetcode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |

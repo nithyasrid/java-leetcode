@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nithyasrid/java-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nithyasrid/java-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nithyasrid/java-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nithyasrid/java-leetcode/tree/master/2029-stone-game-ix) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithyasrid/java-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/nithyasrid/java-leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nithyasrid/java-leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nithyasrid/java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nithyasrid/java-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/nithyasrid/java-leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nithyasrid/java-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nithyasrid/java-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nithyasrid/java-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nithyasrid/java-leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nithyasrid/java-leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/nithyasrid/java-leetcode/tree/master/1927-sum-game) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nithyasrid/java-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nithyasrid/java-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/nithyasrid/java-leetcode/tree/master/2409-count-days-spent-together) |
@@ -939,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nithyasrid/java-leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nithyasrid/java-leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nithyasrid/java-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nithyasrid/java-leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1069,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0336-palindrome-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/nithyasrid/java-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Linked List
 |  |
 | ------- |
@@ -1222,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nithyasrid/java-leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1938-maximum-genetic-difference-query](https://github.com/nithyasrid/java-leetcode/tree/master/1938-maximum-genetic-difference-query) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/nithyasrid/java-leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 | [3597-partition-string](https://github.com/nithyasrid/java-leetcode/tree/master/3597-partition-string) |

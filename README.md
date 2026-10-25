@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nithyasrid/java-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nithyasrid/java-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-camelcase-matching](https://github.com/nithyasrid/java-leetcode/tree/master/1023-camelcase-matching) |
+| [1032-stream-of-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1032-stream-of-characters) |
 | [1049-last-stone-weight-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/nithyasrid/java-leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/nithyasrid/java-leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nithyasrid/java-leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1023-camelcase-matching](https://github.com/nithyasrid/java-leetcode/tree/master/1023-camelcase-matching) |
+| [1032-stream-of-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/nithyasrid/java-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nithyasrid/java-leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nithyasrid/java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0745-prefix-and-suffix-search](https://github.com/nithyasrid/java-leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [1032-stream-of-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1032-stream-of-characters) |
 | [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
@@ -1040,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nithyasrid/java-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1032-stream-of-characters) |
 | [1472-design-browser-history](https://github.com/nithyasrid/java-leetcode/tree/master/1472-design-browser-history) |
 ## String Matching
 |  |
@@ -1199,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/nithyasrid/java-leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0820-short-encoding-of-words](https://github.com/nithyasrid/java-leetcode/tree/master/0820-short-encoding-of-words) |
 | [1023-camelcase-matching](https://github.com/nithyasrid/java-leetcode/tree/master/1023-camelcase-matching) |
+| [1032-stream-of-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
@@ -1328,4 +1333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nithyasrid/java-leetcode/tree/master/0164-maximum-gap) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->

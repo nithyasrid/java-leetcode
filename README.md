@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nithyasrid/java-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nithyasrid/java-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nithyasrid/java-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nithyasrid/java-leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nithyasrid/java-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nithyasrid/java-leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/nithyasrid/java-leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nithyasrid/java-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/nithyasrid/java-leetcode/tree/master/1499-max-value-of-equation) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nithyasrid/java-leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/nithyasrid/java-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nithyasrid/java-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nithyasrid/java-leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nithyasrid/java-leetcode/tree/master/0067-add-binary) |
 | [1094-car-pooling](https://github.com/nithyasrid/java-leetcode/tree/master/1094-car-pooling) |
 | [1518-water-bottles](https://github.com/nithyasrid/java-leetcode/tree/master/1518-water-bottles) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nithyasrid/java-leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nithyasrid/java-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nithyasrid/java-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3100-water-bottles-ii) |
@@ -1118,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nithyasrid/java-leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nithyasrid/java-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bucket Sort
 |  |

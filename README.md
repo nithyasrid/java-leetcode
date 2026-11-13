@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/nithyasrid/java-leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nithyasrid/java-leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nithyasrid/java-leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nithyasrid/java-leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nithyasrid/java-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nithyasrid/java-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/nithyasrid/java-leetcode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nithyasrid/java-leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/nithyasrid/java-leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nithyasrid/java-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nithyasrid/java-leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nithyasrid/java-leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1499-max-value-of-equation](https://github.com/nithyasrid/java-leetcode/tree/master/1499-max-value-of-equation) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nithyasrid/java-leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/nithyasrid/java-leetcode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Sliding Window
 |  |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/nithyasrid/java-leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nithyasrid/java-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nithyasrid/java-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nithyasrid/java-leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nithyasrid/java-leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/nithyasrid/java-leetcode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Prefix Sum
@@ -914,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/nithyasrid/java-leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nithyasrid/java-leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1499-max-value-of-equation](https://github.com/nithyasrid/java-leetcode/tree/master/1499-max-value-of-equation) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nithyasrid/java-leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/nithyasrid/java-leetcode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Union-Find
 |  |
@@ -1109,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nithyasrid/java-leetcode/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nithyasrid/java-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nithyasrid/java-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nithyasrid/java-leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nithyasrid/java-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nithyasrid/java-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1278,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nithyasrid/java-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nithyasrid/java-leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Euclidean Algorithm
 |  |
 | ------- |
